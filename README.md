@@ -1,2 +1,1 @@
-# dotfiles
-my dotfiles under debian 12 with kde plasma
+![preview](https://github.com/aaaxxxeee/dotfiles/blob/main/preview.png?raw=true)
